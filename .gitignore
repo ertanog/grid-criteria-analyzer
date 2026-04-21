@@ -1,14 +1,16 @@
 # Delphi
+__history/
 *.dcu
 *.dcp
 *.do
 *.dsk
-*.dpr
-*.dproj
 *.bdsproj
-*.dproj.local
 *.project
 *.local
+*.identcache
+*.tvsconfig
+Win32/
+Win64/
 
 # Python
 __pycache__/
