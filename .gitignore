@@ -1,0 +1,28 @@
+# Delphi
+*.dcu
+*.dcp
+*.do
+*.dsk
+*.dpr
+*.dproj
+*.bdsproj
+*.dproj.local
+*.project
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.whl
+*.env
+*.venv
+*.pytest_cache/
+*.coverage
+*.mypy_cache/
+*.pytype/
+*.pylint.d
